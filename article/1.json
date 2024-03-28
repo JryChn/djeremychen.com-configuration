@@ -1,0 +1,14 @@
+{
+  "id": "1",
+  "image": "https://raw.githubusercontent.com/JryChn/djeremychen.com-configuration/master/hello_article.jpeg",
+  "title": "Hello World",
+  "introduction": "千里之行，始于足下",
+  "tags": [
+    "first","生活"
+  ],
+  "keywords": [
+    "first","hello","dioxus"
+  ],
+  "post_time": "",
+  "content": "<h1><a id=\"%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0\" class=\"anchor\" aria-hidden=\"true\"><span class=\"octicon octicon-link\"></span></a>我的第一篇文章</h1>\n<p>大家好，辛苦工作两年半（不是），终于带着网站和大家见面了，今后就在这里写一写✍\uFE0F技术文章和生活感悟，希望能够持续学习，把网站建设的越来越好，技术也越来越好，网站采用Dioxus+Tailwind实现，同时也在实现的过程中参与建设了Dioxus的开发与测试</p>\n<h2><a id=\"dioxus%EF%BC%9A\" class=\"anchor\" aria-hidden=\"true\"><span class=\"octicon octicon-link\"></span></a>Dioxus：</h2>\n<ul>\n<li>使用原生的 Rust+Wasm 技术打造，追求与系统的完美结合。</li>\n<li>原则上，首先是追求使用简洁和高性能，然后坚固功能全面</li>\n</ul>\n<h2><a id=\"\" class=\"anchor\" aria-hidden=\"true\"><span class=\"octicon octicon-link\"></span></a></h2>\n<ul>\n<li class=\"task-list-item\"><input type=\"checkbox\" checked=\"\" disabled=\"\" /> 完成网站的初步建设</li>\n<li class=\"task-list-item\"><input type=\"checkbox\" checked=\"\" disabled=\"\" /> 持续优化网站</li>\n<li class=\"task-list-item\"><input type=\"checkbox\" disabled=\"\" /> 贡献第一篇文章</li>\n<li class=\"task-list-item\"><input type=\"checkbox\" disabled=\"\" /> 完成Calendar页面的建设</li>\n<li class=\"task-list-item\"><input type=\"checkbox\" disabled=\"\" /> 完成Zone页面的建设</li>\n</ul>\n"
+}
