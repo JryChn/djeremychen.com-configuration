@@ -12,8 +12,8 @@
       "dark": ""
     }
   },
-  "article_api": "https://github.com/JryChn/djeremychen.com-configuration/article.json",
-  "about_me_api": "https://github.com/JryChn/djeremychen.com-configuration/aboutMe.json",
-  "calendar_api": "https://github.com/JryChn/djeremychen.com-configuration/calendar.json",
+  "article_api": "https://raw.githubusercontent.com/JryChn/djeremychen.com-configuration/master/article.json",
+  "about_me_api": "https://raw.githubusercontent.com/JryChn/djeremychen.com-configuration/master/aboutMe.json",
+  "calendar_api": "https://raw.githubusercontent.com/JryChn/djeremychen.com-configuration/master/calendar.json",
   "zone_api": ""
 }
