@@ -1,0 +1,125 @@
+{
+  "about_me_title": "人生苦短，及时行乐🎉",
+  "about_me_motto": "When I think of you, I’m reminded of the beautiful plains of lowa, which what they call big fields in north America.  \nThe didtance between us is breaking my spirt. My time and experiences without you are meaningless to me. Falling in love with you was the easiest thing I have ever done.  Nothing matters to me but you, and everyday I am alive, I’m aware of this.  \nI loved you the day met you, I love you today, and I will love you to rest of my life.",
+  "image1": "https://github.com/JryChn/djeremychen.com-configuration/portrait_1.jpg",
+  "image2": "https://github.com/JryChn/djeremychen.com-configuration/portrait_2.jpg",
+  "description": "开源贡献者，前5G行业软件开发，喜欢聆听，热爱分享。性格能力ENTJ，当/** 自我介紹 **/的時刻，但我們往往容易會被字面上的意思拉著走，開始徐徐地介紹自己的資訊：叫什麼名字、住哪、讀哪、在哪工作、血型、星座、興趣⋯等等。語畢，準備換下一位時，台下的人也差不多把你忘了。因為這樣的自我介紹特別常見，也特別容易讓人遺忘。一個好的自我介紹？是能夠讓聽者對你的/** 某個特點有印象 **/，並且能/** 連結到你的人本 **/",
+  "experience": [
+    {
+    "time_of_year": 2016,
+    "title": "基于高斯混合模型的语音转换",
+    "keywords": ["Voice", "GMM"],
+    "description": "类文字是新石器时代早期的书写符号系统，用来记录特定事物、简化图像。文字在发展早期都是图画形式的，有些是以形表意，有些是以形表音，其中有表意文字（象形文字，以形表意的文字），与语音无甚关系，中国文字便是从此渐次演变而成。有些中文字可以从表面、部首、字旁看到一些联系旁通的字义。而这些特色是拼音文字所没有的。所以古代中国文字在不同的语系区域拥有不同发音，即方言的存在。汉字已经被邻近的族群借用其文字用作为书写纪录。一般认为，文字是文明社会的标志"
+  },
+    {
+      "time_of_year": 2019,
+      "title": "5G核心网Exposure开发",
+      "keywords": ["5G", "分布式"],
+      "description": "类文字是新石器时代早期的书写符号系统，用来记录特定事物、简化图像。文字在发展早期都是图画形式的，有些是以形表意，有些是以形表音，其中有表意文字（象形文字，以形表意的文字），与语音无甚关系，中国文字便是从此渐次演变而成。有些中文字可以从表面、部首、字旁看到一些联系旁通的字义。而这些特色是拼音文字所没有的。所以古代中国文字在不同的语系区域拥有不同发音，即方言的存在。汉字已经被邻近的族群借用其文字用作为书写纪录。一般认为，文字是文明社会的标志"
+    },
+    {
+      "time_of_year": 2021,
+      "title": "云原生IOT网络开发",
+      "keywords": ["kubernetes", "分布式"],
+      "description": "类文字是新石器时代早期的书写符号系统，用来记录特定事物、简化图像。文字在发展早期都是图画形式的，有些是以形表意，有些是以形表音，其中有表意文字（象形文字，以形表意的文字），与语音无甚关系，中国文字便是从此渐次演变而成。有些中文字可以从表面、部首、字旁看到一些联系旁通的字义。而这些特色是拼音文字所没有的。所以古代中国文字在不同的语系区域拥有不同发音，即方言的存在。汉字已经被邻近的族群借用其文字用作为书写纪录。一般认为，文字是文明社会的标志"
+    },
+    {
+      "time_of_year": 2021,
+      "title": "NeoVide编辑器",
+      "keywords": ["Vim", "Rust"],
+      "description": "类文字是新石器时代早期的书写符号系统，用来记录特定事物、简化图像。文字在发展早期都是图画形式的，有些是以形表意，有些是以形表音，其中有表意文字（象形文字，以形表意的文字），与语音无甚关系，中国文字便是从此渐次演变而成。有些中文字可以从表面、部首、字旁看到一些联系旁通的字义。而这些特色是拼音文字所没有的。所以古代中国文字在不同的语系区域拥有不同发音，即方言的存在。汉字已经被邻近的族群借用其文字用作为书写纪录。一般认为，文字是文明社会的标志"
+    },
+    {
+      "time_of_year": 2023,
+      "title": "Dioxus Framework",
+      "keywords": ["全栈", "Rust"],
+      "description": "类文字是新石器时代早期的书写符号系统，用来记录特定事物、简化图像。文字在发展早期都是图画形式的，有些是以形表意，有些是以形表音，其中有表意文字（象形文字，以形表意的文字），与语音无甚关系，中国文字便是从此渐次演变而成。有些中文字可以从表面、部首、字旁看到一些联系旁通的字义。而这些特色是拼音文字所没有的。所以古代中国文字在不同的语系区域拥有不同发音，即方言的存在。汉字已经被邻近的族群借用其文字用作为书写纪录。一般认为，文字是文明社会的标志"
+    }
+  ],
+  "skill_radar": [
+    {
+      "skill_name": "JAVA技能栈",
+      "skill_description": "Java技术栈开发，主要包括JAVA各个版本的使用，Spring框架的使用",
+      "dimensions": [
+        {
+        "name": "java",
+        "value": 7
+      },
+        {
+          "name": "springboot",
+          "value": 6
+        },
+        {
+          "name": "JVM",
+          "value": 6
+        },
+        {
+          "name": "多线程",
+          "value": 7
+        },
+        {
+          "name": "调优",
+          "value": 3
+        },
+        {
+          "name": "架构设计",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "skill_name": "计算机基础",
+      "skill_description": "计算机基础能力",
+      "dimensions": [
+        {
+          "name": "操作系统",
+          "value": 7
+        },
+        {
+          "name": "算法",
+          "value": 5
+        },
+        {
+          "name": "Network",
+          "value": 7
+        },
+        {
+          "name": "硬件",
+          "value": 3
+        },
+        {
+          "name": "分布式架构",
+          "value": 5
+        },
+        {
+          "name": "创新能力",
+          "value": 8
+        }
+      ]
+    }
+  ],
+  "hobby": [
+    {
+      "title": "Tennis",
+      "description": "技术水平2.5，保持一周一场球的频率",
+      "image": "https://github.com/JryChn/djeremychen.com-configuration/tennis.jpg"
+    },
+    {
+      "title": "Swimming",
+      "description": "类文字是新石器时代早期的书写符号系统，用来记录特定事物、简化图像。文字在发展早期都是图画形式的，有些是以形表意，有些是以形表音，其中有表意文字（象形文字，以形表意的文字",
+      "image": "https://github.com/JryChn/djeremychen.com-configuration/swimming.jpg"
+    },
+    {
+      "title": "Gym",
+      "description": "类文字是新石器时代早期的书写符号系统，用来记录特定事物、简化图像。文字在发展早期都是图画形式的，有些是以形表意，有些是以形表音，其中有表意文字（象形文字，以形表意的文字",
+      "image": "https://github.com/JryChn/djeremychen.com-configuration/gym.jpg"
+    },
+    {
+      "title": "Reading",
+      "description": "还在读书中",
+      "image": "https://github.com/JryChn/djeremychen.com-configuration/reading.jpg"
+    }
+  ],
+  "music_art_1": "https://github.com/JryChn/djeremychen.com-configuration/art.gif",
+  "music_art_2": "https://github.com/JryChn/djeremychen.com-configuration/art.jpg"
+}
