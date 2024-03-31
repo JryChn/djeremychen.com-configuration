@@ -2,87 +2,83 @@
   "year": 2024,
   "events": [
     {
-      "day": "1.19 Fri",
+      "day": "4.01 Mon",
       "duration": [
         {
-          "start_number": 0 ,
-          "end_number": 12
+          "start_number": 32 ,
+          "end_number": 36
         },
         {
-          "start_number": 15 ,
-          "end_number": 19
-        },
-        {
-          "start_number": 25 ,
-          "end_number": 32
-        },
-        {
-          "start_number": 34 ,
-          "end_number": 46
+          "start_number": 67 ,
+          "end_number": 72
         }
       ]
     },
     {
-      "day": "1.20 Fri",
+      "day": "4.02 TUES",
       "duration": [{
-        "start_number": 0 ,
-        "end_number": 12
+        "start_number": 40 ,
+        "end_number": 72
       }]
     },
     {
-      "day": "1.19 Fri",
+      "day": "4.02 WED",
       "duration": [{
-        "start_number": 0 ,
-        "end_number": 12
+        "start_number": 40 ,
+        "end_number": 72
       }]
     },
     {
-      "day": "1.19 Fri",
+      "day": "4.03 THUR",
+      "duration": [{
+        "start_number": 32 ,
+        "end_number": 48
+      },
+        {
+          "start_number": 68 ,
+          "end_number": 82
+        }]
+    },
+    {
+      "day": "4.04 Fri",
       "duration": [{
         "start_number": 0 ,
-        "end_number": 12
+        "end_number": 92
       }]
     },
     {
-      "day": "1.19 Fri",
+      "day": "4.05 SAT",
       "duration": [{
         "start_number": 0 ,
-        "end_number": 12
+        "end_number": 92
       }]
     },
     {
-      "day": "1.19 Fri",
+      "day": "4.06 SUN",
       "duration": [{
         "start_number": 0 ,
-        "end_number": 12
+        "end_number": 92
       }]
     },
     {
-      "day": "1.19 Fri",
+      "day": "4.05 SUN",
       "duration": [{
         "start_number": 0 ,
-        "end_number": 12
+        "end_number": 92
       }]
     },
     {
-      "day": "1.19 Fri",
+      "day": "4.06 MON",
       "duration": [{
-        "start_number": 0 ,
-        "end_number": 12
+        "start_number": 40 ,
+        "end_number": 76
       }]
     },
     {
-      "day": "1.19 Fri",
+      "day": "4.07 MON",
       "duration": [{
-        "start_number": 0 ,
-        "end_number": 12
-      }]
-    },
-    {
-      "day": "1.19 Fri",
-      "duration": [{
-        "start_number": 0 ,
-        "end_number": 12
+        "start_number": 40 ,
+        "end_number": 76
       }]
     }
   ]

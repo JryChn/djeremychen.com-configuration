@@ -8,7 +8,7 @@
     "title": "MedJ.   DJeremyChen /com",
     "subtitle": "DJeremyChen",
     "animation_url": {
-      "light": "static/test.mp4",
+      "light": "https://raw.githubusercontent.com/JryChn/djeremychen.com-configuration/master/animation.mp4",
       "dark": ""
     }
   },
