@@ -8,13 +8,13 @@
     "title": "MedJ.   DJeremyChen /com",
     "subtitle": "DJeremyChen",
     "animation_url": {
-      "light": "https://raw.githubusercontent.com/JryChn/djeremychen.com-configuration/master/animation.mp4",
+      "light": "https://raw.staticdn.net/JryChn/djeremychen.com-configuration/master/animation.mp4",
       "dark": ""
     }
   },
-  "article_api": "https://raw.githubusercontent.com/JryChn/djeremychen.com-configuration/master/article",
-  "article_list_api": "https://raw.githubusercontent.com/JryChn/djeremychen.com-configuration/master/article.json",
-  "about_me_api": "https://raw.githubusercontent.com/JryChn/djeremychen.com-configuration/master/aboutMe.json",
-  "calendar_api": "https://raw.githubusercontent.com/JryChn/djeremychen.com-configuration/master/calendar.json",
+  "article_api": "https://raw.staticdn.net/JryChn/djeremychen.com-configuration/master/article",
+  "article_list_api": "https://raw.staticdn.net/JryChn/djeremychen.com-configuration/master/article.json",
+  "about_me_api": "https://raw.staticdn.net/JryChn/djeremychen.com-configuration/master/aboutMe.json",
+  "calendar_api": "https://raw.staticdn.net/JryChn/djeremychen.com-configuration/master/calendar.json",
   "zone_api": ""
 }
