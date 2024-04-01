@@ -1,7 +1,7 @@
 [
   {
     "id": "1",
-    "image": "https://raw.staticdn.net/JryChn/djeremychen.com-configuration/master/hello_article.jpeg",
+    "image": "https://raw.githubusercontent.com/JryChn/djeremychen.com-configuration/master/hello_article.jpeg",
     "title": "Hello World",
     "introduction": "千里之行，始于足下",
     "tags": [
