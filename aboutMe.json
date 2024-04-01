@@ -1,39 +1,39 @@
 {
   "about_me_title": "听从你心，无问西东🫘",
-  "about_me_motto": "When I think of you, I’m reminded of the beautiful plains of lowa, which what they call big fields in north America.  \nThe didtance between us is breaking my spirt. My time and experiences without you are meaningless to me. Falling in love with you was the easiest thing I have ever done.  Nothing matters to me but you, and everyday I am alive, I’m aware of this.  \nI loved you the day met you, I love you today, and I will love you to rest of my life.",
+  "about_me_motto": "如果有机会提前了解你的人生，知道青春也不过只有这些日子，不知是否你还会在意那些世俗要你们在意的事情，比如占有多少才更荣耀，拥有什么才能被爱。愿你在被打击时，记起你的珍贵，抵抗恶意。愿你在迷茫时，坚信你的珍贵。",
   "image1": "https://raw.gitmirror.com/JryChn/djeremychen.com-configuration/master/portrait_1.jpg",
   "image2": "https://raw.gitmirror.com/JryChn/djeremychen.com-configuration/master/art.jpg",
-  "description": "开源贡献者，前5G行业软件开发，喜欢聆听，热爱分享。性格能力ENTJ，当/** 自我介紹 **/的時刻，但我們往往容易會被字面上的意思拉著走，開始徐徐地介紹自己的資訊：叫什麼名字、住哪、讀哪、在哪工作、血型、星座、興趣⋯等等。語畢，準備換下一位時，台下的人也差不多把你忘了。因為這樣的自我介紹特別常見，也特別容易讓人遺忘。一個好的自我介紹？是能夠讓聽者對你的/** 某個特點有印象 **/，並且能/** 連結到你的人本 **/",
+  "description": "我是Jeremy，是开源的坚定信仰者，也是 5G 行业的探索者。 在我的世界里，/** 万物皆有规律 **/ ，我就是那个喜欢用计划去探索规律的人。热爱运动，更热爱思考。 人类的本源、内心情绪、社会的运行规则，这些都是我孜孜不倦探寻的课题。乐于与不同行业、不同背景的人交朋友，从他们的故事中汲取智慧和灵感 也乐于在寂静的夜里，和内心的自己保持交流，认识彼此",
   "experience": [
     {
     "time_of_year": 2016,
     "title": "基于高斯混合模型的语音转换",
     "keywords": ["Voice", "GMM"],
-    "description": "类文字是新石器时代早期的书写符号系统，用来记录特定事物、简化图像。文字在发展早期都是图画形式的，有些是以形表意，有些是以形表音，其中有表意文字（象形文字，以形表意的文字），与语音无甚关系，中国文字便是从此渐次演变而成。有些中文字可以从表面、部首、字旁看到一些联系旁通的字义。而这些特色是拼音文字所没有的。所以古代中国文字在不同的语系区域拥有不同发音，即方言的存在。汉字已经被邻近的族群借用其文字用作为书写纪录。一般认为，文字是文明社会的标志"
+    "description": "高斯混合模型语音转换项目可以将说话人A的声音转换成说话人B的声音，同时保持语义信息不变，其原理是提取说话人的音色特征，并将这些特征替换到目标说话人的语音中，该项目具有广泛的应用前景，如文本朗读、人工客服、语音导航和影视配音等。"
   },
     {
       "time_of_year": 2019,
       "title": "5G核心网Exposure开发",
       "keywords": ["5G", "分布式"],
-      "description": "类文字是新石器时代早期的书写符号系统，用来记录特定事物、简化图像。文字在发展早期都是图画形式的，有些是以形表意，有些是以形表音，其中有表意文字（象形文字，以形表意的文字），与语音无甚关系，中国文字便是从此渐次演变而成。有些中文字可以从表面、部首、字旁看到一些联系旁通的字义。而这些特色是拼音文字所没有的。所以古代中国文字在不同的语系区域拥有不同发音，即方言的存在。汉字已经被邻近的族群借用其文字用作为书写纪录。一般认为，文字是文明社会的标志"
+      "description": "基于 3GPP 的接口规范，为核心网开发的功能模块，整个项目功能支持北端用户服务器和南端用户设备（手机终端， IoT 物联网设备）之间的消息发送接收，设备唤醒，监控，Qos 质量服务，速率控制等内容。我们负责其中的消息传输功能的微服务模块，其中包括北端的消息下发功能，速率控制，消息缓存，南端的设备注册，设备唤醒等功能。除了功能性业务，还包含 Authorization 和 Authentication 的校验、Quota 和 Throttling 的限制、消息的可靠性保证；还包含错误上报（Fault management），状态监控（PM）,日志记录等非功能的行为"
     },
     {
       "time_of_year": 2021,
       "title": "云原生IOT网络开发",
       "keywords": ["kubernetes", "分布式"],
-      "description": "类文字是新石器时代早期的书写符号系统，用来记录特定事物、简化图像。文字在发展早期都是图画形式的，有些是以形表意，有些是以形表音，其中有表意文字（象形文字，以形表意的文字），与语音无甚关系，中国文字便是从此渐次演变而成。有些中文字可以从表面、部首、字旁看到一些联系旁通的字义。而这些特色是拼音文字所没有的。所以古代中国文字在不同的语系区域拥有不同发音，即方言的存在。汉字已经被邻近的族群借用其文字用作为书写纪录。一般认为，文字是文明社会的标志"
+      "description": "5G 的发展下提出的边缘计算的可行性方案，通过微基站的部署和 5G 的高速低延迟的特性，为物联网终端提供高速，低延迟，高可靠性的边缘计算服务，实现了多点接入的monitor,QoS,Routing 等功能。"
     },
     {
       "time_of_year": 2021,
       "title": "NeoVide编辑器",
       "keywords": ["Vim", "Rust"],
-      "description": "类文字是新石器时代早期的书写符号系统，用来记录特定事物、简化图像。文字在发展早期都是图画形式的，有些是以形表意，有些是以形表音，其中有表意文字（象形文字，以形表意的文字），与语音无甚关系，中国文字便是从此渐次演变而成。有些中文字可以从表面、部首、字旁看到一些联系旁通的字义。而这些特色是拼音文字所没有的。所以古代中国文字在不同的语系区域拥有不同发音，即方言的存在。汉字已经被邻近的族群借用其文字用作为书写纪录。一般认为，文字是文明社会的标志"
+      "description": "Neovide is a modern, efficient, and customizable graphical user interface (GUI) for Neovim, a popular text editor. It is written in the Rust programming language, which makes it lightweight, fast, and reliable. Neovide provides a native experience on all major platforms, including Windows, macOS, and Linux."
     },
     {
       "time_of_year": 2023,
       "title": "Dioxus Framework",
       "keywords": ["全栈", "Rust"],
-      "description": "类文字是新石器时代早期的书写符号系统，用来记录特定事物、简化图像。文字在发展早期都是图画形式的，有些是以形表意，有些是以形表音，其中有表意文字（象形文字，以形表意的文字），与语音无甚关系，中国文字便是从此渐次演变而成。有些中文字可以从表面、部首、字旁看到一些联系旁通的字义。而这些特色是拼音文字所没有的。所以古代中国文字在不同的语系区域拥有不同发音，即方言的存在。汉字已经被邻近的族群借用其文字用作为书写纪录。一般认为，文字是文明社会的标志"
+      "description": "Dioxus is a cross-platform GUI library for building desktop, web, and mobile applications with Rust. It is designed to be high-performance, portable, and ergonomic, with a syntax that is similar to React. Dioxus can be used to build a wide variety of applications, including web pages, desktop apps, and mobile apps."
     }
   ],
   "skill_radar": [
@@ -101,22 +101,22 @@
   "hobby": [
     {
       "title": "Tennis",
-      "description": "技术水平2.5，保持一周一场球的频率",
+      "description": "打网球的过程中，我体会到了很多乐趣。我喜欢在球场上挥洒汗水，感受每一次击球的快感。我喜欢和朋友们一起打网球，享受比赛的激烈和友谊的温馨",
       "image": "https://raw.gitmirror.com/JryChn/djeremychen.com-configuration/master/tennis.jpeg"
     },
     {
       "title": "Swimming",
-      "description": "类文字是新石器时代早期的书写符号系统，用来记录特定事物、简化图像。文字在发展早期都是图画形式的，有些是以形表意，有些是以形表音，其中有表意文字（象形文字，以形表意的文字",
+      "description": "在水上，我们挑战生活的压力和困难。在水下，我们克服水的阻力和温度。游泳带给我自信，和健康的身体。",
       "image": "https://raw.gitmirror.com/JryChn/djeremychen.com-configuration/master/swimming.jpg"
     },
     {
       "title": "Gym",
-      "description": "类文字是新石器时代早期的书写符号系统，用来记录特定事物、简化图像。文字在发展早期都是图画形式的，有些是以形表意，有些是以形表音，其中有表意文字（象形文字，以形表意的文字",
+      "description": "健身不仅仅是身体的塑造，更是一种心理的磨练，健身带给我快乐，坚持和健康。",
       "image": "https://raw.gitmirror.com/JryChn/djeremychen.com-configuration/master/gym.jpg"
     },
     {
       "title": "Reading",
-      "description": "还在读书中",
+      "description": "阅读帮助我提高审美能力，帮我充实内心世界，只有在读书中，才能找到未来的自己。",
       "image": "https://raw.gitmirror.com/JryChn/djeremychen.com-configuration/master/reading.jpg"
     }
   ],
