@@ -1,8 +1,8 @@
 {
   "about_me_title": "听从你心，无问西东🫘",
   "about_me_motto": "如果有机会提前了解你的人生，知道青春也不过只有这些日子，不知是否你还会在意那些世俗要你们在意的事情，比如占有多少才更荣耀，拥有什么才能被爱。愿你在被打击时，记起你的珍贵，抵抗恶意。愿你在迷茫时，坚信你的珍贵。",
-  "image1": "https://raw.gitmirror.com/JryChn/djeremychen.com-configuration/master/portrait_1.jpg",
-  "image2": "https://raw.gitmirror.com/JryChn/djeremychen.com-configuration/master/art.jpg",
+  "image1": "https://cdn.jsdelivr.net/gh/JryChn/djeremychen.com-configuration/portrait_1.jpg",
+  "image2": "https://cdn.jsdelivr.net/gh/JryChn/djeremychen.com-configuration/art.jpg",
   "description": "我是Jeremy，是开源的坚定信仰者，也是 5G 行业的探索者。 在我的世界里，/** 万物皆有规律 **/ ，我就是那个喜欢用计划去探索规律的人。热爱运动，更热爱思考。 人类的本源、内心情绪、社会的运行规则，这些都是我孜孜不倦探寻的课题。乐于与不同行业、不同背景的人交朋友，从他们的故事中汲取智慧和灵感 也乐于在寂静的夜里，和内心的自己保持交流，认识彼此",
   "experience": [
     {
@@ -132,24 +132,24 @@
     {
       "title": "Tennis",
       "description": "打网球的过程中，我体会到了很多乐趣。我喜欢在球场上挥洒汗水，感受每一次击球的快感。我喜欢和朋友们一起打网球，享受比赛的激烈和友谊的温馨",
-      "image": "https://raw.gitmirror.com/JryChn/djeremychen.com-configuration/master/tennis.jpeg"
+      "image": "https://cdn.jsdelivr.net/gh/JryChn/djeremychen.com-configuration/tennis.jpeg"
     },
     {
       "title": "Swimming",
       "description": "在水上，我们挑战生活的压力和困难。在水下，我们克服水的阻力和温度。游泳带给我自信，和健康的身体。",
-      "image": "https://raw.gitmirror.com/JryChn/djeremychen.com-configuration/master/swimming.jpg"
+      "image": "https://cdn.jsdelivr.net/gh/JryChn/djeremychen.com-configuration/swimming.jpg"
     },
     {
       "title": "Gym",
       "description": "健身不仅仅是身体的塑造，更是一种心理的磨练，健身带给我快乐，坚持和健康。",
-      "image": "https://raw.gitmirror.com/JryChn/djeremychen.com-configuration/master/gym.jpg"
+      "image": "https://cdn.jsdelivr.net/gh/JryChn/djeremychen.com-configuration/gym.jpg"
     },
     {
       "title": "Reading",
       "description": "阅读帮助我提高审美能力，帮我充实内心世界，只有在读书中，才能找到未来的自己。",
-      "image": "https://raw.gitmirror.com/JryChn/djeremychen.com-configuration/master/reading.jpg"
+      "image": "https://cdn.jsdelivr.net/gh/JryChn/djeremychen.com-configuration/reading.jpg"
     }
   ],
-  "music_art_1": "https://raw.gitmirror.com/JryChn/djeremychen.com-configuration/master/art.mov",
-  "music_art_2": "https://raw.gitmirror.com/JryChn/djeremychen.com-configuration/master/art.mov"
+  "music_art_1": "https://cdn.jsdelivr.net/gh/JryChn/djeremychen.com-configuration/art.mov",
+  "music_art_2": "https://cdn.jsdelivr.net/gh/JryChn/djeremychen.com-configuration/art.mov"
 }
