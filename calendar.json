@@ -2,83 +2,87 @@
   "year": 2024,
   "events": [
     {
-      "day": "4.01 Mon",
+      "day": "4.08 Mon",
       "duration": [
         {
-          "start_number": 32 ,
-          "end_number": 36
+          "start_number": 36 ,
+          "end_number": 77
         },
         {
-          "start_number": 67 ,
-          "end_number": 72
+          "start_number": 78 ,
+          "end_number": 90
         }
       ]
     },
     {
-      "day": "4.02 TUES",
+      "day": "4.09 TUES",
       "duration": [{
-        "start_number": 40 ,
-        "end_number": 72
+        "start_number": 36 ,
+        "end_number": 77
       }]
     },
     {
-      "day": "4.02 WED",
+      "day": "4.10 WED",
       "duration": [{
-        "start_number": 40 ,
-        "end_number": 72
+        "start_number": 36 ,
+        "end_number": 77
       }]
     },
     {
-      "day": "4.03 THUR",
+      "day": "4.11 THUR",
       "duration": [{
-        "start_number": 32 ,
-        "end_number": 48
+        "start_number": 36 ,
+        "end_number": 77
       },
         {
-          "start_number": 68 ,
-          "end_number": 82
+          "start_number": 36 ,
+          "end_number": 77
         }]
     },
     {
-      "day": "4.04 Fri",
+      "day": "4.12 Fri",
+      "duration": [
+        {
+        "start_number": 36 ,
+        "end_number": 77
+      },
+        {
+          "start_number": 30 ,
+          "end_number": 34
+        }
+      ]
+    },
+    {
+      "day": "4.13 SAT",
       "duration": [{
-        "start_number": 0 ,
-        "end_number": 92
+        "start_number": 36 ,
+        "end_number": 44
       }]
     },
     {
-      "day": "4.05 SAT",
+      "day": "4.14 SUN",
+      "duration": [
+      ]
+    },
+    {
+      "day": "4.15 MON",
       "duration": [{
-        "start_number": 0 ,
-        "end_number": 92
+        "start_number": 36 ,
+        "end_number": 77
       }]
     },
     {
-      "day": "4.06 SUN",
+      "day": "4.16 TUES",
       "duration": [{
-        "start_number": 0 ,
-        "end_number": 92
+        "start_number": 36 ,
+        "end_number": 77
       }]
     },
     {
-      "day": "4.05 SUN",
+      "day": "4.17 WED",
       "duration": [{
-        "start_number": 0 ,
-        "end_number": 92
-      }]
-    },
-    {
-      "day": "4.06 MON",
-      "duration": [{
-        "start_number": 40 ,
-        "end_number": 76
-      }]
-    },
-    {
-      "day": "4.07 MON",
-      "duration": [{
-        "start_number": 40 ,
-        "end_number": 76
+        "start_number": 36 ,
+        "end_number": 77
       }]
     }
   ]
