@@ -96,6 +96,36 @@
           "value": 8
         }
       ]
+    },
+    {
+      "skill_name": "前端",
+      "skill_description": "前端能力",
+      "dimensions": [
+        {
+          "name": "Html",
+          "value": 2
+        },
+        {
+          "name": "CSS",
+          "value": 5
+        },
+        {
+          "name": "JavaScript",
+          "value": 3
+        },
+        {
+          "name": "React",
+          "value": 3
+        },
+        {
+          "name": "Vue",
+          "value": 1
+        },
+        {
+          "name": "webpack",
+          "value": 1
+        }
+      ]
     }
   ],
   "hobby": [
