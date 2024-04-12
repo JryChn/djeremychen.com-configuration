@@ -9,7 +9,7 @@
     "subtitle": "DJeremyChen",
     "animation_url": {
       "light": "https://cdn.jsdelivr.net/gh/JryChn/djeremychen.com-configuration/animation.mov",
-      "dark": ""
+      "dark": "https://cdn.jsdelivr.net/gh/JryChn/djeremychen.com-configuration/animation_dark.mov"
     }
   },
   "article_api": "https://cdn.jsdelivr.net/gh/JryChn/djeremychen.com-configuration/article",
