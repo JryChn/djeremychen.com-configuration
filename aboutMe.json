@@ -1,5 +1,5 @@
 {
-  "about_me_title": "听从你心，无问西东🫘",
+  "about_me_title": "听从你心，无问西东\uD83C\uDF0D",
   "about_me_motto": "如果有机会提前了解你的人生，知道青春也不过只有这些日子，不知是否你还会在意那些世俗要你们在意的事情，比如占有多少才更荣耀，拥有什么才能被爱。愿你在被打击时，记起你的珍贵，抵抗恶意。愿你在迷茫时，坚信你的珍贵。",
   "image1": "https://cdn.jsdelivr.net/gh/JryChn/djeremychen.com-configuration/portrait_1.jpg",
   "image2": "https://cdn.jsdelivr.net/gh/JryChn/djeremychen.com-configuration/art.jpg",
@@ -39,7 +39,7 @@
   "skill_radar": [
     {
       "skill_name": "JAVA技能栈",
-      "skill_description": "Java技术栈开发，主要包括JAVA各个版本的使用，Spring框架的使用",
+      "skill_description": "Java技术栈开发，主要包括JAVA各个版本的使用，Spring框架的使用，喜欢钻研JVM运行的原理和优化，熟悉多线程的开发",
       "dimensions": [
         {
         "name": "java",
@@ -69,7 +69,7 @@
     },
     {
       "skill_name": "计算机基础",
-      "skill_description": "计算机基础能力",
+      "skill_description": "计算机基础能力,包括从硬件到软件，从单机到网络。如果说好的社会是由规则和底线构成，那么“计算机就如同旧约中的上帝：诸多的守则且没有怜悯。”",
       "dimensions": [
         {
           "name": "操作系统",
@@ -99,7 +99,7 @@
     },
     {
       "skill_name": "前端",
-      "skill_description": "前端能力",
+      "skill_description": "前端能力，前端的发展日新月异，除了传统的前端开发框架，依旧在探索新的，面向未来的前端开发技术；同时提高自己的审美能力和设计能力",
       "dimensions": [
         {
           "name": "Html",
@@ -150,6 +150,6 @@
       "image": "https://cdn.jsdelivr.net/gh/JryChn/djeremychen.com-configuration/reading.jpg"
     }
   ],
-  "music_art_1": "https://cdn.jsdelivr.net/gh/JryChn/djeremychen.com-configuration/art.mov",
-  "music_art_2": "https://cdn.jsdelivr.net/gh/JryChn/djeremychen.com-configuration/art.mov"
+  "music_art_1": "",
+  "music_art_2": ""
 }
